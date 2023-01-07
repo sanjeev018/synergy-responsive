@@ -1,0 +1,498 @@
+.navar{
+    width: 127%;
+}
+
+.SSM_span{ 
+    color: grey;
+    border-right: 1px solid grey;
+}
+
+.head_nav{ 
+    background-color:#FFFFFF;
+}
+
+.SSM_span:hover{
+    color: #FF6229;
+    transition: .9s;    
+}
+
+.top_n_span{
+     color:#FF6229;
+     font-size: 1.1em;
+}
+.top_n_span:hover{ 
+    color: #d47958;
+    transition: .9s;    
+}
+
+.navvar_two{ 
+    width: 85%;
+}
+/* second_nav_start */
+.home_span{ 
+    border-bottom: .2em solid   #FF6229;
+}
+
+.first_ul{ 
+    list-style-type: none;
+    background-color:white;
+    margin-left: 5em;
+    margin-top: 1.7em;
+}
+
+.border_span{ 
+    color: grey;
+}
+
+.border_span:hover{
+ border-bottom: .2em solid   #FF6229;
+ color: black;
+transition:all 1s;
+}
+
+.sub_btn{ 
+    padding: .7em 2em .7em 2em;
+    background-color: #FE5C02;
+}
+
+.sub_btn:hover{ 
+    background-color:#da8354;
+transition:all 1s;
+}
+/* 1st row end */
+.second_row{ 
+    background-image: url("./images/two_man_woman.jpg");
+    background-repeat: no-repeat;
+    background-size:105em;
+}
+
+.secnd_row_div{ 
+    padding: 15em 0em 6em 0em;
+}
+
+.fs_span{ 
+    font-size: 3.5em;
+    line-height: 1.1em;
+    color:#343C5C;
+}
+
+.war_span{ 
+    color:#FF6229;
+    font-weight: 600;
+}
+
+.secnd_row_img{ 
+margin-left: 5.5em;
+}
+
+.com_img:hover{
+    height: 1.4em;
+}
+
+.be_img:hover{ 
+    height: 1.5em;
+}
+.reac_img:hover{ 
+    height: 1.7em;
+}
+
+.logi_img:hover{ 
+    height: 2em;
+}
+   
+.brain_img:hover{
+    height: 2em;
+}
+
+.out_img:hover{ 
+    height: 1.6em;
+}
+/* help paragraph start */
+
+.os_span{ 
+    font-size: 2.5em;
+    line-height: 1.1em;
+    color:#343C5C;
+    font-weight: 700;
+    margin-top: 4em;
+}
+
+.imp_brdr{ 
+    border-bottom:.1em solid #FF6229;
+    padding-bottom: .5em;
+}
+
+.oea_p{ 
+    font-size:1.1em;
+    margin: 3.5em 0em 2em 0em;
+}
+/* five boxes div start */
+
+.ma_p{ 
+    font-weight: 650;
+}
+
+.ma_p:hover{ 
+color:#FF6229;
+transition: all 1s;
+}
+
+.imgs_hvr:hover{ 
+height: 2.7em;
+}
+
+.anti_div{ 
+    padding-right: 5em;
+}
+
+.conflict_div{ 
+    padding-right: 5.2em;
+    margin-right: 5.9em;
+}
+
+.five_boxes_clr:hover{
+    box-shadow: rgb(52, 49, 49) .1em .2em .9em;     
+}
+/* second row */
+
+.third_row{ 
+    padding: 8em 0em 8em 0em;
+}
+
+.otw_span{ 
+    font-size: 2.5em;
+    line-height: 1.1em;
+    color:#343C5C;
+    font-weight: 700;
+}
+
+.waa_p{ 
+    margin-top: 3em;
+}
+
+.three_five_p{ 
+    font-size: 3.2em;
+    font-weight: 700;
+    margin-bottom: -0em;
+    margin-left: .7em;
+}
+
+.sp_plus_div{ 
+    background:#FE5E02;
+    padding: 2em 3.9em 2em 3.9em;
+}
+
+.skilled_p{ 
+    padding-left: -1em;
+}
+
+.white_div{ 
+    background-color: white;
+}
+
+.sps_plus_div{ 
+background-color:#343C5C;
+padding: 2em 3.9em 2em 3.9em;
+}
+
+.na_plus_div{ 
+    background-color:#F0F2FA;
+    padding: 2em 4.5em 2em 3.9em;
+}
+
+.six_five_p{ 
+    color:#FF6229;
+}
+
+.brc_p{ 
+    font-size:1.1em;
+}
+
+.learn_btn{ 
+    padding: .8em 2.1em .8em 2.1em;
+    background-color:#343C5C;
+}
+
+.learn_btn:hover{ 
+    background-color:#6d738a;
+    transition: all 1s;
+}
+/* fifth row end 6th row start */
+.balance_img{ 
+    margin: 17em 0em 6em 0em;
+}
+
+.profit_bi{ 
+    background-image: url("./images/profit_growth_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* 6th row end 7th row start */
+/* 7th row end 8th row start */
+
+.ia_p{ 
+    font-weight:640;
+}
+
+.rc_p{ 
+color:#FF8B60;
+}
+
+.back_arrow_img{ 
+    border:1px solid grey;
+    padding:.8em .7em .8em 1.1em;
+    height:2.8em;
+}
+
+.two_arrow_imgs{ 
+    margin-left: 10em;
+    margin-top: 1.5em;
+}
+
+.for_arrow_img{ 
+    border:1px solid grey;
+    padding:.8em .8em .8em 1em;
+    height:2.8em;
+}
+
+.for_arrow_img:hover{ 
+    background-color: #FE5E02;
+    transition: all 1s;
+}
+
+.appreciate_img{ 
+    padding: 3em 3em 4em 3em;
+background-color: white;
+}
+/* 8row end 9row start */
+
+.num_orange{ 
+    color:#FF6229;
+}
+
+.num_orange:hover{ 
+    border-bottom:.1em solid#FE5C02;
+}
+
+.navi_ul{ 
+    list-style-type: none;
+}
+
+.callus_li{ 
+    margin-right: 5.5em;
+}
+
+.navi_p { 
+    margin-left:1.5em;
+}
+
+.email_ph{ 
+    font-weight:600;
+    font-size: .9em;
+    padding: 1em 5em 1em 1em;
+    border: 1px solid grey;
+    background-color: #F7F9FD;
+    margin-left:2.1em;
+}
+
+.get_btn{ 
+    background-color:#FE6002;
+    padding: .8em 1.8em .8em 1.8em;   
+}
+
+.get_btn:hover{ 
+    background-color:#c18360;
+    transition: all 1s;
+}
+/* 9throw end 10throw start */
+
+.footer_p{ 
+font-size:.8em;
+}
+
+.btn_up{
+     padding: .6em 1em .6em 1em;
+    background-color:#FE6002;
+}
+
+.team_img{ 
+    height: 38.1em;
+}
+
+.five_boxes_div{ 
+    display: flex;
+}
+
+.bottom_three{ 
+    display: flex;
+    justify-content:end;
+}
+
+.three_five{ 
+    display: flex;
+}
+
+
+/* media queries start */
+
+@media only screen and (min-width:768px) and (max-width:992px){ 
+.second_row{ 
+    background-position-x: -550px;
+}
+
+.navar{ 
+    width: 50%;
+}
+
+.team_img{ 
+    height: 20em;
+    margin-left: 10em;
+}
+
+.sub_btn{ 
+    margin-left: 1.8em;
+}
+
+.fs_span{ 
+    font-size: 2.8em; 
+}
+
+.lm_btn{ 
+    margin-left: 0em;
+}
+
+.logi_img{ 
+    margin-left: 4em;
+}
+
+.os_center_p{ 
+    text-align: center;
+}
+
+.five_box_mrg{
+    margin-left: 7em;
+
+}
+
+.otw_span{ 
+    font-size: 1.8em;
+    text-align: center;
+    margin-top: 2em;
+}
+
+.waa_p{ 
+text-align: center;
+}
+
+.sp_plus_div{ 
+    padding: 2em 6em 2em 6em;
+}
+
+.sps_plus_div{ 
+    padding: 2em 6em 2em 6em;
+}
+
+.na_plus_div{ 
+    padding: 2em 6em 2em 6em;
+    margin-left: 12em;
+    margin-bottom: -10em;
+}
+
+.diagram_img{ 
+    margin-left: 1em;
+}
+
+.employee_img{ 
+    height: 20em;
+}
+
+.appreciate_img{ 
+    margin-left: 5em;
+}
+
+}
+
+/* second media query  */
+
+@media only screen and (max-width:576px) and (min-width:1px){ 
+
+.team_img{ 
+    height: 18em;
+    margin-left: 2em;
+}
+
+.navar{ 
+    width: 90% ;
+    text-align: center;
+}
+
+.synergy_logo_mq{ 
+    margin-left: 11em;
+}
+
+.first_ul{ 
+    margin-left: -.8em;
+}
+
+.reac_img{ 
+    margin-left: 1.5em;
+    margin-top: 1em;
+}
+
+.logi_img{ 
+    margin-left:6.7em ;
+    margin-top: 1em;
+}
+
+.brain_img{ 
+    margin-left: 1.8em;
+    margin-top: 1em;
+}
+
+.out_img{ 
+    margin-top: 1em;
+    margin-left: 9em;
+}
+
+.five_boxes_div{ 
+    display: inline-block;
+}
+
+.otw_span{ 
+    text-align: center;
+}
+
+.war_span{ 
+    text-align: center;
+}
+
+.bottom_three{ 
+    display: inline-block;
+}
+
+.anti_div{ 
+padding-right:-5em;
+margin-left: 1.5em;
+} 
+
+.five_boxes_mq{ 
+    display: flex;
+    justify-content: center;
+}
+
+.three_boxes_mq{ 
+    margin-left: 5em;
+}
+
+.three_five{ 
+    display: inline-block;
+    /* justify-content: center; */
+    margin-left: 6em;
+}
+
+.sp_plus_div{ 
+    /* margin-left: 3em; */
+}
+
+
+}
